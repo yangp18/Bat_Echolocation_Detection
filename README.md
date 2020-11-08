@@ -7,9 +7,9 @@ This project aims to identify and classify real bat calls according to the purpo
 
 ## Members
 
-[Hadi Soufi](https://github.com/HadiSoufi)
-
 [Yang Peng](https://github.com/yangp18)
+
+[Hadi Soufi](https://github.com/HadiSoufi)
 
 [Bety Rostandy](https://github.com/brostandy)
 
@@ -22,8 +22,10 @@ This project aims to identify and classify real bat calls according to the purpo
 1. [Extraction](https://plot.ly/~souhad/13/zc-noisy-zc-smoothed-zc-noiseless/):
 Extract meaningful signal from noise.
 
-2. [Clustering](https://github.com/UNCG-CSE/Bat_Echolocation/blob/master/src/clustering_yang.ipynb):
+2. [Clustering](src/clustering_yang.ipynb):
 Categorize the extracted calls into different types using clustering techniques.
 
-3. [Classification](https://github.com/UNCG-CSE/Bat_Echolocation/blob/master/src/clustering_yang.ipynb):
+3. [Classification](src/classification_yang.ipynb):
 Classify if a Bat Echolocation(zero-crossing files) contains abnormal calls(i.e. social calls, foraging calls).
+
+## [Paper](doc/Abnormal_Bat_Echolocation_Detection_Paper.pdf)
